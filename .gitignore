@@ -1,3 +1,2 @@
-echo venv/ >> .gitignore
-echo venv310/ >> .gitignore
-"Face_recognition_employee_attendance_system/venv310/" 
+venv/ 
+venv310/ 
